@@ -1,39 +1,57 @@
 {
     "data": [
-        {
-            "adds_to_cart": 114,
-            "amount_spent_usd": 672.73,
-            "clicks_all": 3344,
-            "cost_per_landing_page_view": 0.5663,
-            "cost_per_lead": 1.6448,
-            "cost_per_post_engagement": 0.4125,
-            "cost_per_purchase": 17.7034,
-            "cost_per_result": 0.1548,
-            "cost_per_thruplay": 3.0718,
-            "cost_per_two_sec_video_play": 3.0718,
-            "cpc_all": 0.2012,
-            "cpc_link_click": 0.4446,
-            "cpm": 3.6817,
-            "ctr_all": 1.8301,
-            "ctr_link_click": 0.828,
-            "frequency": 1.8533,
-            "impressions": 182724,
-            "landing_page_views": 1188,
-            "leads": 409,
-            "leads_conversion_value": 4908.0,
-            "link_clicks": 1513,
-            "page_engagement": 1631,
-            "post_engagements": 1631,
-            "purchase_roas": 13.2734,
-            "purchases": 38,
-            "purchases_conversion_value": 8929.430000000002,
-            "reach": 98596,
-            "result_rate": 2.3779,
-            "results": 4345,
-            "thruplays": 219,
-            "total_campaigns_running": 3,
-            "video_plays_2_sec": 219
-        }
+        [
+            {
+                "metric_name": "Impressions",
+                "metric_rank": 1,
+                "metric_value": 182724
+            },
+            {
+                "metric_name": "CPM",
+                "metric_rank": 2,
+                "metric_value": 3.6817
+            },
+            {
+                "metric_name": "Reach",
+                "metric_rank": 3,
+                "metric_value": 98596
+            },
+            {
+                "metric_name": "Frequency",
+                "metric_rank": 4,
+                "metric_value": 1.8533
+            },
+            {
+                "metric_name": "Cost per Result",
+                "metric_rank": 5,
+                "metric_value": 0.1548
+            },
+            {
+                "metric_name": "Results",
+                "metric_rank": 6,
+                "metric_value": 4345
+            },
+            {
+                "metric_name": "Result Rate",
+                "metric_rank": 7,
+                "metric_value": 2.3779
+            },
+            {
+                "metric_name": "Clicks (All)",
+                "metric_rank": 8,
+                "metric_value": 3344
+            },
+            {
+                "metric_name": "CPC (All)",
+                "metric_rank": 9,
+                "metric_value": 0.2012
+            },
+            {
+                "metric_name": "CTR (All)",
+                "metric_rank": 10,
+                "metric_value": 1.8301
+            }
+        ]
     ],
     "status": {
         "statusCode": 200,
