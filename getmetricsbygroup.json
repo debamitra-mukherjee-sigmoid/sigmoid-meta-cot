@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "metric_group": "Performance",
+            "metric_name": "Impressions",
+            "within_metric_group_rank": 1
+        },
+        {
+            "id": 2,
+            "metric_group": "Performance",
+            "metric_name": "CPM",
+            "within_metric_group_rank": 2
+        },
+        {
+            "id": 3,
+            "metric_group": "Performance",
+            "metric_name": "Reach",
+            "within_metric_group_rank": 3
+        },
+        {
+            "id": 4,
+            "metric_group": "Performance",
+            "metric_name": "Frequency",
+            "within_metric_group_rank": 4
+        },
+        {
+            "id": 5,
+            "metric_group": "Performance",
+            "metric_name": "Cost per Result",
+            "within_metric_group_rank": 5
+        },
+        {
+            "id": 6,
+            "metric_group": "Performance",
+            "metric_name": "Results",
+            "within_metric_group_rank": 6
+        },
+        {
+            "id": 7,
+            "metric_group": "Performance",
+            "metric_name": "Result Rate",
+            "within_metric_group_rank": 7
+        },
+        {
+            "id": 8,
+            "metric_group": "Performance",
+            "metric_name": "Clicks (All)",
+            "within_metric_group_rank": 8
+        },
+        {
+            "id": 9,
+            "metric_group": "Performance",
+            "metric_name": "CPC (All)",
+            "within_metric_group_rank": 9
+        },
+        {
+            "id": 10,
+            "metric_group": "Performance",
+            "metric_name": "CTR (All)",
+            "within_metric_group_rank": 10
+        }
+    ],
+    "status": {
+        "statusCode": 200,
+        "statusMessage": "Success"
+    }
+}
