@@ -2,54 +2,200 @@
     "data": [
         [
             {
+                "chart_type": "bar",
+                "metric_group": "Performance",
                 "metric_name": "Impressions",
                 "metric_rank": 1,
                 "metric_value": 182724
             },
             {
+                "chart_type": "line",
+                "metric_group": "Performance",
                 "metric_name": "CPM",
                 "metric_rank": 2,
                 "metric_value": 3.6817
             },
             {
+                "chart_type": "line",
+                "metric_group": "Performance",
                 "metric_name": "Reach",
                 "metric_rank": 3,
                 "metric_value": 98596
             },
             {
+                "chart_type": "line",
+                "metric_group": "Performance",
                 "metric_name": "Frequency",
                 "metric_rank": 4,
                 "metric_value": 1.8533
             },
             {
+                "chart_type": "line",
+                "metric_group": "Performance",
                 "metric_name": "Cost per Result",
                 "metric_rank": 5,
                 "metric_value": 0.1548
             },
             {
+                "chart_type": "line",
+                "metric_group": "Performance",
                 "metric_name": "Results",
                 "metric_rank": 6,
                 "metric_value": 4345
             },
             {
+                "chart_type": "line",
+                "metric_group": "Performance",
                 "metric_name": "Result Rate",
                 "metric_rank": 7,
                 "metric_value": 2.3779
             },
             {
+                "chart_type": "line",
+                "metric_group": "Performance",
                 "metric_name": "Clicks (All)",
                 "metric_rank": 8,
                 "metric_value": 3344
             },
             {
+                "chart_type": "line",
+                "metric_group": "Performance",
                 "metric_name": "CPC (All)",
                 "metric_rank": 9,
                 "metric_value": 0.2012
             },
             {
+                "chart_type": "line",
+                "metric_group": "Performance",
                 "metric_name": "CTR (All)",
                 "metric_rank": 10,
                 "metric_value": 1.8301
+            },
+            {
+                "chart_type": "bar",
+                "metric_group": "Engagement",
+                "metric_name": "Link Clicks",
+                "metric_rank": 1,
+                "metric_value": 1513
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Engagement",
+                "metric_name": "Post Engagement",
+                "metric_rank": 4,
+                "metric_value": 1631
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Engagement",
+                "metric_name": "ThruPlays",
+                "metric_rank": 5,
+                "metric_value": 219
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Engagement",
+                "metric_name": "2-second Continuous Video Plays",
+                "metric_rank": 6,
+                "metric_value": 219
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Engagement",
+                "metric_name": "Page Engagement",
+                "metric_rank": 7,
+                "metric_value": 1631
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Engagement",
+                "metric_name": "Cost per Post Engagement",
+                "metric_rank": 8,
+                "metric_value": 0.4125
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Engagement",
+                "metric_name": "Cost per 2-second continuous video play",
+                "metric_rank": 9,
+                "metric_value": 3.0718
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Engagement",
+                "metric_name": "Cost per ThruPlay",
+                "metric_rank": 10,
+                "metric_value": 3.0718
+            },
+            {
+                "chart_type": "bar",
+                "metric_group": "Conversions",
+                "metric_name": "Landing Page Views",
+                "metric_rank": 1,
+                "metric_value": 1188
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Conversions",
+                "metric_name": "Cost per Landing Page Views",
+                "metric_rank": 2,
+                "metric_value": 0.5663
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Conversions",
+                "metric_name": "Purchases Conversion Value",
+                "metric_rank": 3,
+                "metric_value": 8929.430000000002
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Conversions",
+                "metric_name": "Purchase ROAS",
+                "metric_rank": 4,
+                "metric_value": 13.2734
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Conversions",
+                "metric_name": "Leads",
+                "metric_rank": 5,
+                "metric_value": 409
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Conversions",
+                "metric_name": "Purchases",
+                "metric_rank": 6,
+                "metric_value": 38
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Conversions",
+                "metric_name": "Adds to cart",
+                "metric_rank": 7,
+                "metric_value": 114
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Conversions",
+                "metric_name": "Cost per Lead",
+                "metric_rank": 8,
+                "metric_value": 1.6448
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Conversions",
+                "metric_name": "Cost per Purchase",
+                "metric_rank": 9,
+                "metric_value": 17.7034
+            },
+            {
+                "chart_type": "line",
+                "metric_group": "Conversions",
+                "metric_name": "Leads Conversion Value",
+                "metric_rank": 10,
+                "metric_value": 4908
             }
         ]
     ],
